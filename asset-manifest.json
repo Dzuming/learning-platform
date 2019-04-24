@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Dzuming/learning-platform/static/css/main.3e545749.chunk.css",
-    "main.js": "/Dzuming/learning-platform/static/js/main.95c44c61.chunk.js",
-    "main.js.map": "/Dzuming/learning-platform/static/js/main.95c44c61.chunk.js.map",
-    "runtime~main.js": "/Dzuming/learning-platform/static/js/runtime~main.9837e1ab.js",
-    "runtime~main.js.map": "/Dzuming/learning-platform/static/js/runtime~main.9837e1ab.js.map",
-    "static/js/2.b41502e9.chunk.js": "/Dzuming/learning-platform/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/Dzuming/learning-platform/static/js/2.b41502e9.chunk.js.map",
-    "index.html": "/Dzuming/learning-platform/index.html",
-    "precache-manifest.13af4a33f27a8cb54eef7a5aca2ed759.js": "/Dzuming/learning-platform/precache-manifest.13af4a33f27a8cb54eef7a5aca2ed759.js",
-    "service-worker.js": "/Dzuming/learning-platform/service-worker.js",
-    "static/css/main.3e545749.chunk.css.map": "/Dzuming/learning-platform/static/css/main.3e545749.chunk.css.map",
-    "static/media/logo.svg": "/Dzuming/learning-platform/static/media/logo.5d5d9eef.svg"
+    "main.css": "/learning-platform/static/css/main.3e545749.chunk.css",
+    "main.js": "/learning-platform/static/js/main.d57a217f.chunk.js",
+    "main.js.map": "/learning-platform/static/js/main.d57a217f.chunk.js.map",
+    "runtime~main.js": "/learning-platform/static/js/runtime~main.11162a14.js",
+    "runtime~main.js.map": "/learning-platform/static/js/runtime~main.11162a14.js.map",
+    "static/js/2.b41502e9.chunk.js": "/learning-platform/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/learning-platform/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/learning-platform/index.html",
+    "precache-manifest.13c19b7e349d75e7a4ed0761fdc1540c.js": "/learning-platform/precache-manifest.13c19b7e349d75e7a4ed0761fdc1540c.js",
+    "service-worker.js": "/learning-platform/service-worker.js",
+    "static/css/main.3e545749.chunk.css.map": "/learning-platform/static/css/main.3e545749.chunk.css.map",
+    "static/media/logo.svg": "/learning-platform/static/media/logo.5d5d9eef.svg"
   }
 }
