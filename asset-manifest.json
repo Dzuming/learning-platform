@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Dzuming/learning-platform/static/css/main.3e545749.chunk.css",
+    "main.js": "/Dzuming/learning-platform/static/js/main.95c44c61.chunk.js",
+    "main.js.map": "/Dzuming/learning-platform/static/js/main.95c44c61.chunk.js.map",
+    "runtime~main.js": "/Dzuming/learning-platform/static/js/runtime~main.9837e1ab.js",
+    "runtime~main.js.map": "/Dzuming/learning-platform/static/js/runtime~main.9837e1ab.js.map",
+    "static/js/2.b41502e9.chunk.js": "/Dzuming/learning-platform/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/Dzuming/learning-platform/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/Dzuming/learning-platform/index.html",
+    "precache-manifest.13af4a33f27a8cb54eef7a5aca2ed759.js": "/Dzuming/learning-platform/precache-manifest.13af4a33f27a8cb54eef7a5aca2ed759.js",
+    "service-worker.js": "/Dzuming/learning-platform/service-worker.js",
+    "static/css/main.3e545749.chunk.css.map": "/Dzuming/learning-platform/static/css/main.3e545749.chunk.css.map",
+    "static/media/logo.svg": "/Dzuming/learning-platform/static/media/logo.5d5d9eef.svg"
+  }
+}
